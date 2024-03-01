@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "RAF CASERT",
+      "title": "A quiet Dutch village holds clues as European politics veer to the right",
+      "description": "SINT WILLEBRORD, The Netherlands (AP) — “Everyone is welcome,” reads the sign at the church door in this quiet Dutch village, where neighbors greet each other from tidy porches overlooking manicured lawns.",
+      "url": "https://apnews.com/a16e22da1f62ca6940bab4749fae7ee6",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/186a9d3e291b41dcbe2899505e69139a/3000.jpeg",
+      "publishedAt": "2024-01-15T05:09:18Z",
+      "content": "SINT WILLEBRORD, The Netherlands (AP) — “Everyone is welcome,” reads the sign at the church door in this quiet Dutch village, where neighbors greet each other from tidy porches overlooking manicured … [+9120 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "STEVE PEOPLES, THOMAS BEAUMONT and HANNAH FINGERHUT",
+      "title": "Donald Trump's grip on Republican politics is put to the test in ice-cold Iowa's caucuses",
+      "description": "DES MOINES, Iowa (AP) — Voting is set to begin Monday night in icy Iowa as former President Donald Trump eyes a victory that would send a resounding message that neither life-threatening cold nor life-changing legal trouble can slow his march toward the Repub…",
+      "url": "https://apnews.com/0af10f1ba21d488af54776b2c8d4028c",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/16efdb0de8d54f6db6d4c186c6f7f64d/1920.jpeg",
+      "publishedAt": "2024-01-15T05:07:40Z",
+      "content": "DES MOINES, Iowa (AP) — Voting is set to begin Monday night in icy Iowa as former President Donald Trump eyes a victory that would send a resounding message that neither life-threatening cold nor lif… [+7783 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
